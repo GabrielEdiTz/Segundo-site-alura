@@ -5,10 +5,10 @@ Tecnologias Utilizadas:
 * HTML
 * CSS
 
-#O site desenvolvido consiste em apresentar o curso do ALURA PLUS e ALURA+. Durante o curso, aprendi e implementei os seguintes aspectos:
+<h2>O site desenvolvido consiste em apresentar o curso do ALURA PLUS e ALURA+. Durante o curso, aprendi e implementei os seguintes aspectos:<h2>
 * Utilização de tags HTML para estruturar o conteúdo do site.
 * Aplicação de estilos utilizando CSS para tornar o site atraente e responsivo.
 * Utilização de técnicas de layout, como grids e flexbox, para organizar e posicionar os elementos do site.
 * Inclusão de imagens, links e outros recursos para enriquecer o conteúdo do site.
 
-##Contribuições são bem-vindas! Se você encontrar algum problema no projeto ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+<h3>Contribuições são bem-vindas! Se você encontrar algum problema no projeto ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.<h3>
