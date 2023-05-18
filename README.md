@@ -1,4 +1,4 @@
-#Projeto de um SITE do ALURA+
+<h1>Projeto de um SITE do ALURA+<h1>
 Este é o projeto de um site que desenvolvi como parte do curso de HTML e CSS do Alura. O objetivo desse projeto foi aplicar os conhecimentos adquiridos em HTML e CSS para criar um site estilizado.
 
 Tecnologias Utilizadas:
